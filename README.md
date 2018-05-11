@@ -15,5 +15,4 @@ with operations research ([Linear Programming](https://en.wikipedia.org/wiki/Lin
 ## Dependencies
 The LP solving is done through the GLPK library
 
-###### This project was developed as a undergrad thesis at the Federal University
-of Parana for the Computer Sciences course.
+###### This project was developed as a undergrad thesis at the Federal University of Parana for the Computer Sciences course.
